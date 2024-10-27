@@ -1,6 +1,7 @@
 # E3-invaraint-diffusion-model
 
 ## Pretrained Model Weights Links:
+ext{i} means the model trained with {i} extened pocket residue neighbors.
 - [Structure Preidction Models](https://mailuc-my.sharepoint.com/:f:/g/personal/liangpu_mail_uc_edu/Eq2xfeEsvBVEg9ABhEZxFowBLkimpjUa2IJfenfJ8mWHBw?e=aRVlWK)
 - [Sequence Prediction Models](https://mailuc-my.sharepoint.com/:f:/g/personal/liangpu_mail_uc_edu/El96JDc2RGxDu2HNJvxuEswBME_xk1ZS9nHLNb-d4Ph_3g?e=3awaKD)
 
